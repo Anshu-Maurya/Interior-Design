@@ -15,12 +15,12 @@ export const footerData = {
   },
 
   quickLinks: [
-    { label: "Home", page: "home" },
-    { label: "About Us", page: "about" },
-    { label: "Services", page: "services" },
-    { label: "Portfolio", page: "portfolio" },
-    { label: "Our Team", page: "team" },
-    { label: "Blog", page: "blog" },
+    { label: "Home", path: "/" },
+    { label: "About Us", path: "/about" },
+    { label: "Services", path: "/service" },
+    { label: "Portfolio", path: "/portfolio" },
+    { label: "Our Team", path: "/team" },
+    { label: "Blog", path: "/blog" },
   ],
 
   services: [
